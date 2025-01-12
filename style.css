@@ -176,16 +176,16 @@ body{
         width: 250px;
     }
     .box{
-        height: 80px;
-        width: 80px;
+        height: 6.125rem;
+        width: 6.125rem;
     }
     .img1 img{
-        height: 80px;
-        width: 80px;
+        height: 6.125rem;
+        width: 6.125rem;
     }
     .img2 img{
-        height: 70px;
-        width: 70px;
+        height: 110px;
+        width: 110px;
         margin: 5px 0 0 5px;
     }
 }
