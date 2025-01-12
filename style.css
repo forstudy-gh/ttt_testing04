@@ -172,21 +172,21 @@ body{
         font-weight: 500;
     }
     .board{
-        height: 21.875rem;
-        width: 21.875rem;
+        height: 250px;
+        width: 250px;
     }
     .box{
-        height: 6.875rem;
-        width: 6.875rem;
+        height: 80px;
+        width: 80px;
     }
     .img1 img{
-        height: 6.875rem;
-        width: 6.875rem;
+        height: 80px;
+        width: 80px;
     }
     .img2 img{
-        height: 6.25rem;
-        width: 6.25rem;
-        margin: 0.3125rem 0 0 0.3125rem;
+        height: 70px;
+        width: 70px;
+        margin: 5px 0 0 5px;
     }
 }
 
